@@ -13,3 +13,27 @@ h1 {
 #html{
     color: blue;
 }
+#css{
+    color: blue;
+}
+#tag{
+    color: red;
+}
+#element{
+    color: red;
+}
+#attribute{
+    color: red;
+}
+#selector{
+    color: green;
+}
+#class{
+    color: green;
+}
+#id{
+    color: green;
+}
+span {
+    background-color: yellow;
+}
